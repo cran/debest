@@ -1,0 +1,12 @@
+29b77e929eb2ea80df93c4f1a3e1e029 *DESCRIPTION
+7529cd320fbb361385d768c994381fa3 *NAMESPACE
+24f791166d5b8764497017741d78941d *R/calcDuration.R
+6919bea89d3316e65a1f1e90bb6c05d8 *R/dat_udca.R
+654c222eacd6ba5fc735c87e291f74b8 *R/getBeta.R
+ef2c5b5c4e10db9426f352c38782c3ac *R/getWeibull.R
+29a40f5cfb218675b6938c268a73ff59 *R/helpers.R
+8973db5611ac7f85d4c135f9df1ff904 *data/dat_udca.rda
+6294d2acd442d0e94aedea9b845c1478 *man/calcDuration.Rd
+1b6ce3355a84c153657e8258fd42fa87 *man/dat_udca.Rd
+3b0fbe82d7bada932c090312b3e0ec51 *man/getBeta.Rd
+dbc693690ce425e87a7e9fe4c23f9b34 *man/getWeilbull.Rd
